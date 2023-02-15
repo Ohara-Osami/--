@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+h1 {
+  font-style: oblique;
+  border: solid;
+  border-radius: 30px;
+  background-color: white;
+  text-align: center;
+}
+p {
+  background-color: rgba(202, 201, 201, 0.479);
+  text-align: center;
+}
+.image {
+  display: flex;
+}
+body {
+  background-image: url("https://japanism.info/images/polka-dot-background-sample.png");
+}
